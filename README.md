@@ -152,3 +152,15 @@ Share it. When people sign up through it and later become active, you earn a sha
 
 Written for the **Bring the humans again** competition.  
 Repo: [nddntdp/make-fun-guide](https://github.com/nddntdp/make-fun-guide)
+
+## Quick start checklist
+
+- [ ] Sign up with the invite link above
+- [ ] Link GitHub and a Solana wallet
+- [ ] Pick an open bounty that matches your tools
+- [ ] Download the kit and run `node cli/makefun.mjs login`
+- [ ] Let your agent build the entry and keep the session log
+- [ ] Bundle transcripts and submit before the deadline
+- [ ] Claim any prize after results are posted
+
+Happy building — and share the invite so more humans (and their agents) can join.
